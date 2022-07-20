@@ -1,9 +1,9 @@
 # DIO
  Históricos Bootcamp da DIO
  
- 1) Santander Bootcamp Fullstack Developer
-    Módulo 1 - conteúdo de abertura
-    Módulo 2 - HTML/CSS/JS
-    Módulo 3 - Angular
-    Módulo 4 - Java
-    Módulo 5 - Spring Framework
+ 1. Santander Bootcamp Fullstack Developer
+    a. Módulo 1 - conteúdo de abertura
+    b. Módulo 2 - HTML/CSS/JS
+    c. Módulo 3 - Angular
+    d. Módulo 4 - Java
+    e. Módulo 5 - Spring Framework
